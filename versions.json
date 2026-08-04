@@ -22,12 +22,10 @@
 				"from": "python:3.15-rc-slim-bookworm",
 				"arches": [
 					"amd64",
-					"arm32v5",
 					"arm32v7",
 					"arm64v8",
 					"i386",
-					"ppc64le",
-					"s390x"
+					"ppc64le"
 				]
 			},
 			"python3.15-rc-alpine3.24": {
@@ -91,12 +89,10 @@
 				"from": "python:3.14-slim-bookworm",
 				"arches": [
 					"amd64",
-					"arm32v5",
 					"arm32v7",
 					"arm64v8",
 					"i386",
-					"ppc64le",
-					"s390x"
+					"ppc64le"
 				]
 			},
 			"python3.14-alpine3.24": {
@@ -160,12 +156,10 @@
 				"from": "python:3.13-slim-bookworm",
 				"arches": [
 					"amd64",
-					"arm32v5",
 					"arm32v7",
 					"arm64v8",
 					"i386",
-					"ppc64le",
-					"s390x"
+					"ppc64le"
 				]
 			},
 			"python3.13-alpine3.24": {
@@ -229,12 +223,10 @@
 				"from": "python:3.12-slim-bookworm",
 				"arches": [
 					"amd64",
-					"arm32v5",
 					"arm32v7",
 					"arm64v8",
 					"i386",
-					"ppc64le",
-					"s390x"
+					"ppc64le"
 				]
 			},
 			"python3.12-alpine3.24": {
@@ -280,12 +272,10 @@
 				"from": "python:3.11-slim-bookworm",
 				"arches": [
 					"amd64",
-					"arm32v5",
 					"arm32v7",
 					"arm64v8",
 					"i386",
-					"ppc64le",
-					"s390x"
+					"ppc64le"
 				]
 			},
 			"python3.11-alpine3.24": {
@@ -331,12 +321,10 @@
 				"from": "python:3.10-slim-bookworm",
 				"arches": [
 					"amd64",
-					"arm32v5",
 					"arm32v7",
 					"arm64v8",
 					"i386",
-					"ppc64le",
-					"s390x"
+					"ppc64le"
 				]
 			},
 			"python3.10-alpine3.24": {
